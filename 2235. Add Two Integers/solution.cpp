@@ -1,5 +1,5 @@
 /**
- * LeetCode Problem: 2236. Root Equals Sum of Children
+ * LeetCode Problem: 2235. Add Two Integers
  * Problem Link: https://leetcode.com/problems/add-two-integers/
  * Author: Andrés Ragot (github.com/andresragot)
  * Date: 2025-06-10

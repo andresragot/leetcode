@@ -1,8 +1,8 @@
 /**
  * LeetCode Problem: 3342. Maximum Difference Between Even and Odd Frequency I
- * Problem Link: https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/
+ * Problem Link: https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
  * Author: Andrés Ragot (github.com/andresragot)
- * Date: 2025-06-10
+ * Date: 2025-06-12
  */
 
 class Solution 
